@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(43, 43, 43);
+}
+
+* {
+    color: white;
+}
+
+.container {
+    padding: 1%
+}
+
+.container > div {
+    padding: 1%;
+    font-size: 1.5vmax;
+}
+
+.speed, .intensity {
+    color: red;
+    font-size: 2.5vmax;
+}
+
+.coords {
+    font-size: 5vmax;
+    color: lime;
+}
